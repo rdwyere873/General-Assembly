@@ -1,4 +1,4 @@
 # General-Assembly
-#Repository for projects completed in Dta Science Immersive bootcamp
+#Repository for projects completed in Data Science Immersive bootcamp
 
 
